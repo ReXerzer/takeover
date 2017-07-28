@@ -1,6 +1,6 @@
-# takeover
-```
-TakeOver is a networking attacking tool for pentesters. It's a powerful tool which can perform attacks, reconnaissance, spoofing, social engineering, sniffing and much more.
+# Takeover
+MADE BY koreX AND Harrig
+Takeover is a networking attacking tool for pentesters. It's a powerful tool which can perform attacks, reconnaissance, spoofing, social engineering, sniffing and much more.
 
 Installation:
 To install the TakeOver stable release version type the following command in your terminal:
@@ -14,8 +14,9 @@ After installation go to the takeover directory:
 cd takeover
 
 For a list of commands type the following:
-
+`
 python3 takeover.py --help
+`
 or
 python3 takeover.py -h
 """
@@ -35,4 +36,3 @@ This will launch an ARP spoof attack a.k.a. MITM attack with target 192.168.1.8 
 
 python3 takeover.py --deauth --target 12:AB:34:CD:56:EF
 This will launch a deauth attack on target 12:AB:34:CD:56:EF (BSSID of the access point)
-```
