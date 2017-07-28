@@ -1,4 +1,5 @@
 # Takeover
+### MADE BY koreX AND Harrig
 Takeover is a networking attacking tool for pentesters. It's a powerful tool which can perform attacks, reconnaissance, spoofing, social engineering, sniffing and much more.
 
 ## Installation:
