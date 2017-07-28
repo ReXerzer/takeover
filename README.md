@@ -1,5 +1,6 @@
 # Takeover
 MADE BY koreX AND Harrig
+
 Takeover is a networking attacking tool for pentesters. It's a powerful tool which can perform attacks, reconnaissance, spoofing, social engineering, sniffing and much more.
 
 Installation:
@@ -14,11 +15,14 @@ After installation go to the takeover directory:
 cd takeover
 
 For a list of commands type the following:
+
 `
 python3 takeover.py --help
 `
 or
+
 python3 takeover.py -h
+
 """
 commands here
 """
